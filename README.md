@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Shubham Dangare.
-I work as Full Stack developer backend usually; Python, Scala, Kafka, Spark, Docker, ELK, Django, Flask, CouchBase, Cassandra, Postgres, AWS Code Build, Rancher, AWS Elastic Cache, CI/CD.
+I work as Data Engineer usually on Cloud(AWS,GCP); Python, Scala, Kafka, Spark, CouchBase, Cassandra, Postgres.
 
 - 🌱 I’m currently learning more about real time data processing.
 - 👯 I’m looking to collaborate on content about data streaming, learning, and career.
